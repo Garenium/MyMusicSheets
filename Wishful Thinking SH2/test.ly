@@ -1,6 +1,6 @@
 \version "2.22.1"
 
-% Based on : https://www.youtube.com/watch?v=qFPtOjiyY3M 
+% Based on (by Georg): https://youtu.be/eD6A0bZqRgQ
 
 \header{
     title = "Wishful Thinking"
